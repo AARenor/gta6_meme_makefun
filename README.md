@@ -1,3 +1,4 @@
+![make.fun bounty badge](https://make.fun/badge/gta6-meme-x-01.svg)
 [![reward](https://make.fun/badge/gta6-meme-x-01/AARenor/gta6_meme_makefun/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
 # CALLED IN SICK FOR GTA 6
