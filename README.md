@@ -98,6 +98,14 @@ sky.
   mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
   ```
 
+- `make_meme.py` is the builder kept in the repository: a standalone Pillow script that rebuilds the picture layer by
+  layer from the press kit in `/tmp/presskit/make-fun-press-kit/`, and prints the canvas size, the sky bands and the
+  skyline bars it drew as it saves. It takes an output path and defaults to `meme.png`:
+
+  ```
+  python3 make_meme.py rebuilt.png
+  ```
+
 - The text on X, posted with the picture, carries the joke, the pitch, the play code `makefun-antler-archer-rain`,
   `@makefunai` and `https://make.fun/bounty/gta6-meme-x-01`.
 
