@@ -1,0 +1,3 @@
+# Build output written by main.ts when the harness runs it. Never tracked.
+out/
+node_modules/
