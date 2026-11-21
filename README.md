@@ -1,3 +1,5 @@
+[![reward](https://make.fun/badge/gta6-meme-x-01/AARenor/gta6_meme_makefun/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 # CALLED IN SICK FOR GTA 6
 
 A GTA 6 meme for make.fun's bounty `gta6-meme-x-01`. The entry is the post on X: one picture, 1080 x 1350, and
